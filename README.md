@@ -1,10 +1,10 @@
 
-NAME
+Name
 ----
 
 react-drag-drop-info
 
-DESCRIPTION
+Description
 -----------
 
 A Drag-n-Drop Box component that obtains information from files in a simple way. Especially useful for checking file integrity.
@@ -33,6 +33,16 @@ handleResponse(obj){
 
 <Box handleDrop={fn} boxId={id}/>
 ```
+
+Examples
+---------
+
+
+![animation](images/animation.gif)
+
+
+You can see this example <a href="https://spa-sha256-d892f.firebaseapp.com/">in action here</a>.
+
 
 Testing
 -------
